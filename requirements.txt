@@ -1,0 +1,41 @@
+# Core Dependencies
+torch
+torchvision
+torchaudio
+pytorch-lightning
+
+# Segmentation Models
+segmentation-models-pytorch
+
+# Data Processing and Augmentation
+numpy
+pandas
+scikit-image
+scikit-learn
+Pillow
+albumentations
+imgaug
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebooks
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+scipy
+
+# Development Tools
+black
+flake8
+isort
+mypy-extensions
+
+
+# wandb
+wandb

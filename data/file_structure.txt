@@ -1,0 +1,13 @@
+basedir/
+    models/
+        spesific_model_type/
+            model.ipynb
+    data/
+        kvasir-instrument/
+            images/
+            masks/
+            bboxes.json
+            images.tar.gz
+            masks.tar.gz
+            test.txt
+            train.txt
