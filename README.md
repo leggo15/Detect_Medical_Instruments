@@ -41,8 +41,3 @@ See the PDF report for full metrics, graphs, and discussion.
 ## Dataset
 
 [Kvasir‑Instrument](https://datasets.simula.no/kvasir-instrument/) – 590 annotated GI endoscopy images with binary masks. Only the metadata (paths) are version‑controlled; download the images separately and set `<span>KVASIR_ROOT</span>` in the notebooks.
-
-
-## Acknowledgements
-
-This repository was created for the PGR207 Deep Learning examination at Kristiania University College. We gratefully acknowledge the authors of the **Kvasir‑Instrument** dataset for making the data publicly available.
